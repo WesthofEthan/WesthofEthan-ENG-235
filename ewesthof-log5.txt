@@ -1,0 +1,32 @@
+Ethan Westhof
+Jason Loan
+Technical Writing
+Design Log 5
+
+###Poster Presentation Sampling & Analysis
+This week, I sampled 3 student poster presentations from University Archives. What I noticed, is that the primary purpose of poster presentations is to inform the reader of *something* to influence them *somehow*. Types of influence could very well be a change in understanding, a change in perspective, decision-making, the list goes on. I noticed that a change in understanding seemed to be the most common. The medium combines solid, factual information/ research with captivating visuals to showcase in an interactive, compact display. Each sample I reviewed evidently laid out a large sum of information, made navigable and comprehensive with imagery, colors, structure, all elements of the poster medium.
+
+###How to Spot a Poster Presentation
+I would identify a poster presentation by it's most stereotypical attributes; It showcases any one idea, research, etc, broken up into digestible chunks, aided by visuals, all on one 'page'. Differences are evident; can be any shape/ size, though typically large and landscape. Emphasis on visuals, info density, & organization all vary depending on topic presented. Sample #1 showcased a technological innovation, very summarized and concise, easy to understand, with comprehensive visuals. Samples' #2 and #3 were STEM research presentations, much more info dense with less emphasis/ prioritization of readability and visual appeal. This medium is easily flexible to encapsulate just about any topic, whether you choose to prioritize Info >/< Comprehension.
+
+###"What Makes a Poster Presentation?" Checklist
+Since I want my presentation to showcase my redesign to **fellow designers**, **coworkers**, and the like, I should emphasize general comprehension and readability by making efficient use of visuals. I will attempt to use a good structure like Sample #1, support info with imagery, and enhance text with varying colors, sizes, etc.
+
+**Checklist**
+- Has at least 4 visual elements
+- Translate at least 1 textual info --> visual (flowchart, pie chart, bar graph, data representation) (may not be applicable)
+- Sensible transition/ placements between/ of topics
+- Emphasizes text info with color and font size variation
+- Has a sensible structure (objective, design, broader context, etc.)
+- Follows traditional dimensions (outlined in the Canvas overview)
+
+###Tool Consideration
+I have chosen to use PowerPoint and Canva for this project. There isn't much variety when it comes to presentation fabrication tools. I dislike the limited functionality of the Google Suite, I prefer the advanced functionality of Microsoft softwares. Canva offers a wide selection of visual elements and vector graphics to polish. My one 'roadblock' is the technical learning curve to take full advantage of PowerPoint, to really know what you're doing. It's a trade-off I am willing to make and learn as I go.
+
+###Final Words
+This week I learned mostly about how flexible, yet research oriented the poster project medium is. Here are my samples below, taken from WSU's Research Exchange.
+[Sample #1](https://doi.org/10.7273/000000039)
+[Sample #2](https://hdl.handle.net/2376/4005)
+[Sample #3](https://hdl.handle.net/2376/2574)
+
+After much anticipation, my long-awaited gitHub repo *now* contains archived coursework, you can access it [here!](https://github.com/WesthofEthan/WesthofEthan-ENG-235).
